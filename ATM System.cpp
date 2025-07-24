@@ -479,9 +479,7 @@ void Login()
 
 }
 
-int main()
-
-{
+int main(){
     Login();
 
     system("pause>0");
